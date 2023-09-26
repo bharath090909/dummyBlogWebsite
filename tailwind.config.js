@@ -18,6 +18,9 @@ export default {
       backgroundImage: {
         "login-bg": "url('./src/assets/login.jpeg')",
       },
+      fontFamily: {
+        bungee: ["Bungee", "cursive"],
+      },
     },
   },
   plugins: [],

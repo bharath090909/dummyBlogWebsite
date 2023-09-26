@@ -19,7 +19,9 @@ const MainNavigation = () => {
     <>
       <header className="w-full px-10 py-5 bg-primary flex items-center justify-between">
         <div>
-          <img src="*" alt="logo"></img>
+          <p className="font-bungee text-4xl text-tertiary cursor-pointer">
+            B.
+          </p>
         </div>
         <nav>
           <ul className="flex gap-8 items-center">
